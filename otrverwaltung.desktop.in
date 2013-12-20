@@ -1,8 +1,13 @@
 [Desktop Entry]
+Version=1.0
+Type=Application
 Name=OTR-Verwaltung
-Comment=Dateien von onlinetvrecorder.com verwalten: Schneiden, Schnitte betrachten, Cutlists bewerten...
+GenericName=Client to decode and cut OTR files
+GenericName[de]=Client zum dekodieren und schneiden von OTR Dateien
+Comment=Manage files from onlinetvrecorder.com: decode, cut, view cuts, rate cutlists...
+Comment[de]=Dateien von onlinetvrecorder.com verwalten: Schneiden, Schnitte betrachten, Cutlists bewerten...
 Categories=AudioVideo
 Exec=otrverwaltung
 Icon=/usr/share/otrverwaltung/media/icon.png
 Terminal=false
-Type=Application
+
